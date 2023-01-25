@@ -4,4 +4,8 @@ class pw
 {
 //code
 }
+  public static void main()
+{
+//code2
+}
 }
